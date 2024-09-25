@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+header{
+    background-color: brown;
+    padding: 10px;
+    text-align: center;
+    color: chartreuse;
+}
+main {
+    background-color: darkred;
+    padding: 10px;
+    color: aqua;
+}
+ul{
+    list-style-type: square;
+}
+footer{
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom:0;
+
+}
