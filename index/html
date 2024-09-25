@@ -1,0 +1,41 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <header>
+        <h1>Короче, это я</h1>
+        <P>Добро пожаловать на мой сайт</P>
+    </header>
+    <main>
+        <section>
+            <h2>Обо мне</h2>
+            <p>Меня зовут Влад</p>
+         </section>
+
+        <section>
+        <h2>Мои хобби</h2>
+        <ul>
+            <li>Программирование</li>
+            <li>Плавание</li>
+        </ul>
+        <section>
+
+            <section>
+                <h2>Контакты</h2>
+                
+
+                    <p>Моя почта: <a href="mailto :MrVlad666kc@gmail.com">mailto:MrVlad666kc@gmail.com</a></p>
+            </section>
+        
+    </main>
+
+    <footer>
+    
+</body>
+<a href="2 лист.html">Вирус</a>
+</html>
